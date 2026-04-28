@@ -132,15 +132,4 @@ This project is built and tested in a real-world Linux environment.
    ./Script/Basic/argument.sh "Hello World"
    ```
 
----
-
-<p align="center">
-  Made with ❤️ by <b>Danish Ali</b><br>
-  <i>Mastering Linux, One Module at a Time.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/danish-ali-droid">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub">
-  </a>
 </p>
