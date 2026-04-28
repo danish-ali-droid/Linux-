@@ -131,5 +131,3 @@ This project is built and tested in a real-world Linux environment.
    chmod +x Script/Basic/*.sh
    ./Script/Basic/argument.sh "Hello World"
    ```
-
-</p>
